@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 350px;
+  margin: 20px;
+  box-sizing: border-box;
+  border: solid lightgrey 1px;
+  box-shadow: 8px 8px 16px lightgrey;
+  cursor: pointer;
+}
