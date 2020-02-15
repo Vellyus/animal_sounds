@@ -72,6 +72,13 @@ const animals = [
   },
 
   {
+    type: 'frog',
+    images: ['img/frog1.jpg', 'img/frog2.jpg', 'img/frog3.jpg'], 
+    sound: 'sound/frog.wav', 
+    unused: true
+  },
+
+  {
     type: 'goat',
     images: ['img/goat1.jpg', 'img/goat2.jpg', 'img/goat3.jpg'], 
     sound: 'sound/goat.mp3', 
